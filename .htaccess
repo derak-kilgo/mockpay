@@ -1,0 +1,4 @@
+#Compressing the output can cause problems with the soap client. turn this feature off in apache.
+SetEnv no-gzip dont-vary
+php_flag zlib.output_compression "0"
+php_flag zlib.output_compression_level "-1"
