@@ -1,4 +1,4 @@
-Mockpay is a fake payment gateway to use in a concrete demonstrate of how to create a magento payment module.
+Mockpay is a fake payment gateway which will be used in a concrete demonstration of how to create a magento payment module.
 
 Requirements:
 Zend Framework 1.11.x be installed in your php include path.
